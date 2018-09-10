@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Vinay Bedre",
+      "authorEmail": "vinaybedre@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
